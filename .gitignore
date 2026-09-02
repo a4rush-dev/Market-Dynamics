@@ -1,1 +1,2 @@
-src/data/raw
+*.parquet
+__pycache__
